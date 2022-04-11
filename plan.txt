@@ -1,0 +1,16 @@
+1. The program that we are implementing is a version of hangman that uses a client and server application. The server will handle word generation and checking to see if a 
+guessed letter is contained in the word. The client will be guessing the word and will input one letter at a time to see if it is contained in the secret word. If the client is able to
+guess the word correctly, they win! If the client runs out of guesses, then they lose.
+
+
+2. We anticipate that the most challenging part of the assignment will be setting up the client-server connection and effectively transfering information over the socket. We
+have little experience with using sockets or the socket api, so we will probably need to read up on the documentation beforehand.
+
+3.
+The unix manual socket page: https://man7.org/linux/man-pages/man2/socket.2.html
+
+An article by GeekforGeeks: https://www.geeksforgeeks.org/socket-programming-cc/
+
+Course lectures and the project description pdf.
+
+4. We will meet at 3:30pm on weekdays for a minimum of one hour until the projcet is finished.
